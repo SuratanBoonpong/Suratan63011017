@@ -1,7 +1,7 @@
 <h2 align="center">SURATAN BOONPONG ✨</h2>
 
 - 🏫 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang
-
+------------------------------
 CONTACT
 - 📫 
 ###
