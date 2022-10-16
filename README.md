@@ -1,4 +1,4 @@
-<h2 align="center">SURATAN BOONPONG   ʕノ•ᴥ•ʔノ ︵ ┻━┻</h2>
+<h2 align="center">SURATAN BOONPONG ✨</h2>
 
 ###
 
