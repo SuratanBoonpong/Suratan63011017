@@ -12,9 +12,10 @@
 ### :hammer_and_wrench: Hardware Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
+  <img srx="https://i.pinimg.com/originals/07/9b/6c/079b6c84d0e1b4d31ea22c2f1c5abb78.png" height="40" width="52" alt="xilinx logo" />
 </div>  
 
-### :hammer_and_wrench: Software language & Tools :
+### :hammer_and_wrench: Software Language & Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
