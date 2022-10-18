@@ -3,7 +3,7 @@
 - 🏫 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang
 ------------------------------
 CONTACT
-- 📫 
+- 📫 suratan.boonpong@gmail.com
 ###
 
 <div align="center" >
