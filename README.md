@@ -34,7 +34,7 @@ CONTACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
   <img src="other/selenium-logo.png" height="40" width="52" alt="selenium logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"  height="40" width="52" alt="robot logo />
+  <img src="other/robot-logo.jpg"  height="40" width="52" alt="robot logo />
 </div>
 
 ###
