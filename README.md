@@ -12,7 +12,7 @@ CONTACT
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Suratan63011017" height="150" alt="languages graph"  />
 </div>
 
-### :hammer_and_wrench: Software Language & Tools :
+### :hammer_and_wrench: Language & Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="other/fpga-logo.png" height="40" width="52" alt="fpga logo"  />
