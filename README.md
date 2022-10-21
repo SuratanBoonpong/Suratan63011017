@@ -39,7 +39,7 @@ CONTACT
 </div>
 
 ###
-<h2 align="left">SURATAN BOONPONG ✨</h2>
+                                                               
 <br clear="both">
 
 ![snake gif](https://github.com/Suratan63011017/Suratan63011017/blob/output/github-contribution-grid-snake.gif)
