@@ -4,6 +4,7 @@
 ------------------------------
 CONTACT
 - 📫 suratan.boonpong@gmail.com
+- 🔗 https://www.linkedin.com/in/suratan-boonpong-4766a6254
 ###
 
 <div align="center" >
