@@ -11,15 +11,11 @@ CONTACT
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Suratan63011017" height="150" alt="languages graph"  />
 </div>
 
-### :hammer_and_wrench: Hardware Tools :
+### :hammer_and_wrench: Software Language & Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="other/FPGA-Logo.jpg" height="40" width="52" alt="arduino logo"  />
   <img src="other/stm32-logo.jpg" height="40" width="52" alt="arduino logo"  />
-</div>  
-
-### :hammer_and_wrench: Software Language & Tools :
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
