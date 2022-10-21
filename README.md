@@ -14,8 +14,8 @@ CONTACT
 ### :hammer_and_wrench: Software Language & Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="other/fpga-logo.png" height="40" width="52" alt="arduino logo"  />
-  <img src="other/STM32-logo.png" height="40" width="52" alt="arduino logo"  />
+  <img src="other/fpga-logo.png" height="40" width="52" alt="fpga logo"  />
+  <img src="other/STM32-logo.png" height="40" width="52" alt="stm32 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -33,7 +33,7 @@ CONTACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://camo.githubusercontent.com/74ed64243ba05754329bc527cd4240ebd1c087a1/68747470733a2f2f73656c656e69756d2e6465762f696d616765732f73656c656e69756d5f6c6f676f5f7371756172655f677265656e2e706e67" height="40" width="52" alt="selenium logo"  />
+  <img src="other/selenium-logo.png" height="40" width="52" alt="selenium logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"  height="40" width="52" alt="robot logo />
 </div>
 
