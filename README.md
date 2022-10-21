@@ -15,6 +15,7 @@ CONTACT
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="other/FPGA-Logo.jpg" height="40" width="52" alt="arduino logo"  />
+  <img src="other/stm32-logo.jpg" height="40" width="52" alt="arduino logo"  />
 </div>  
 
 ### :hammer_and_wrench: Software Language & Tools :
