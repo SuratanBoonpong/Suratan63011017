@@ -14,7 +14,7 @@ CONTACT
 ### :hammer_and_wrench: Software Language & Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
-  <img src="other/FPGA-Logo.jpg" height="40" width="52" alt="arduino logo"  />
+  <img src="other/fpga-logo.png" height="40" width="52" alt="arduino logo"  />
   <img src="other/STM32-logo.png" height="40" width="52" alt="arduino logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
