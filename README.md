@@ -16,6 +16,8 @@ CONTACT
 <div align="left">
   <img src="other/PyTorch-logo.svg" height="40" width="52" alt="pytorch logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="other/selenium-logo.png" height="40" width="52" alt="selenium logo"  />
+  <img src="other/robot-logo.png"  height="40" width="52" alt="robot logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="52" alt="arduino logo"  />
   <img src="other/fpga-logo.png" height="40" width="52" alt="fpga logo"  />
   <img src="other/STM32-logo.png" height="40" width="52" alt="stm32 logo"  />
@@ -36,9 +38,7 @@ CONTACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="52" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
-  <img src="other/selenium-logo.png" height="40" width="52" alt="selenium logo"  />
-  <img src="other/robot-logo.png"  height="40" width="52" alt="robot logo" />
-  
+
 </div>
 
 ###
