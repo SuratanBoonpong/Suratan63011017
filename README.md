@@ -37,6 +37,7 @@ CONTACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
   <img src="other/selenium-logo.png" height="40" width="52" alt="selenium logo"  />
   <img src="other/robot-logo.png"  height="40" width="52" alt="robot logo />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APyTorch_logo_icon.svg&psig=AOvVaw2x0A93mqCInPfue6ScDH_U&ust=1687399243883000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCBtpWi0_8CFQAAAAAdAAAAABAE" height="40" width="52" alt="pytorch logo"/>
 </div>
 
 ###
