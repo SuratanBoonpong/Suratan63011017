@@ -1,6 +1,6 @@
 <h2 align="center">SURATAN BOONPONG ✨</h2>
 
-- 🏫 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang (GPA: 3.77)
+- 🏫 I’m currently studying at King Mongkut's Institute of Technology Ladkrabang (GPA: 3.76)
 ------------------------------
 CONTACT
 - 📫 suratan.boonpong@gmail.com
